@@ -16,15 +16,9 @@
 | Rear camera 2 | 2Omnivision OV8856, f/2.4, 1.120 µm, 8 Mpx                                |
 | Front camera | 20 MP, f/2.2, 0.800 µm  |
 | Audio | HiRes Audio, Qualcomm WCD9375 independent audio chip, Qualcomm TrueWireless Stereo Plus |
-| Misc | Phase detection with Dual Pixel
-4K video 60fps
-79.4º angle lens
-6P lens
-1/2" sensor size
-4 in 1 pixel size (12MP 1,6 μm)
-Second rear camera telephoto 5P lens, AF, FOV 49.6
-Third rear camera 13MP ultra wide angle 124º f/2.4 aperture
-Third rear camera sensor Samsung S5K3L6 1.12μm 1/3" |
+| Misc | Phase detection with Dual Pixel,4K video 60fps, 79.4º angle lens, 6P lens, 1/2" sensor size  
+|1,6 μm 4 in 1 pixel size (12MP), Second rear camera telephoto 5P lens, AF, FOV 49.6, 
+|Third rear camera 13MP ultra wide angle 124º f/2.4 aperture, Third rear camera sensor Samsung S5K3L6 1.12μm 1/3" |
 
 ## Device picture
 
