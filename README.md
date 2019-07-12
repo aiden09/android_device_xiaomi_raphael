@@ -82,13 +82,21 @@ To build OrangeFox:
  just add exec this commands or add it to your ~/.bashrc
  
 export OF_STATUS_INDENT_LEFT="48"
+
 export OF_STATUS_INDENT_RIGHT="48"
+
 export OF_SCREEN_H=2340
+
 export OF_USE_MAGISKBOOT=1 export
+
 export TW_DEVICE_VERSION="R10.0"
+
 export OF_MAINTAINER="aiden09"
+
 export FOX_USE_TWRP_RECOVERY_IMAGE_BUILDER=1
+
 export FOX_USE_LZMA_COMPRESSION=1
+
 export LZMA_RAMDISK_TARGETS="[recovery]"
 
  
